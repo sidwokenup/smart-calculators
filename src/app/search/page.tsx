@@ -3,8 +3,8 @@ import { healthCalculators, moneyCalculators } from "@/lib/calculators";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Search Results | SmartCalc",
-  description: "Search for free health and finance calculators on SmartCalc.",
+  title: "Search Results | SmartKalc",
+  description: "Search for free health and finance calculators on SmartKalc.",
 };
 
 export default async function SearchPage({
@@ -51,3 +51,4 @@ export default async function SearchPage({
     </div>
   );
 }
+

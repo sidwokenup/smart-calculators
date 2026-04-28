@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Contact Us | SmartCalc",
-  description: "Get in touch with the SmartCalc support team.",
+  title: "Contact Us | SmartKalc",
+  description: "Get in touch with the SmartKalc support team.",
 };
 
 export default function ContactPage() {
@@ -15,8 +15,8 @@ export default function ContactPage() {
         <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 space-y-6 max-w-md">
           <div>
             <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-1">Email</h3>
-            <a href="mailto:support@smartcalc.com" className="text-lg font-medium text-indigo-600 hover:underline">
-              support@smartcalc.com
+            <a href="mailto:support@smartkalc.com" className="text-lg font-medium text-indigo-600 hover:underline">
+              support@smartkalc.com
             </a>
           </div>
           

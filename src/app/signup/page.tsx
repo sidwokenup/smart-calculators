@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Sign Up | SmartCalc",
-  description: "Create your free SmartCalc account today.",
+  title: "Sign Up | SmartKalc",
+  description: "Create your free SmartKalc account today.",
 };
 
 export default function SignupPage() {

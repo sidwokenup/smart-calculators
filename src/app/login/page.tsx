@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Login | SmartCalc",
-  description: "Log in to your SmartCalc account.",
+  title: "Login | SmartKalc",
+  description: "Log in to your SmartKalc account.",
 };
 
 export default function LoginPage() {

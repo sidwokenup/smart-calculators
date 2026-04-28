@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://your-domain.com';
+  const baseUrl = 'https://smartkalc.com';
 
   const routes = [
     { url: baseUrl, priority: 1.0 },
@@ -31,3 +31,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: route.priority,
   }));
 }
+

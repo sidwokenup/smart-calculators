@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Terms & Conditions | SmartCalc",
-  description: "Read the Terms & Conditions for using SmartCalc.",
+  title: "Terms & Conditions | SmartKalc",
+  description: "Read the Terms & Conditions for using SmartKalc.",
 };
 
 export default function TermsPage() {
@@ -12,12 +12,12 @@ export default function TermsPage() {
         
         <h2 className="text-xl font-medium mt-6 mb-3">1. General Usage</h2>
         <p className="text-gray-600 mb-4">
-          All calculators and tools provided on SmartCalc are for informational and educational purposes only. They are not intended to replace professional financial or medical advice.
+          All calculators and tools provided on SmartKalc are for informational and educational purposes only. They are not intended to replace professional financial or medical advice.
         </p>
         
         <h2 className="text-xl font-medium mt-6 mb-3">2. No Liability</h2>
         <p className="text-gray-600 mb-4">
-          SmartCalc assumes no liability for any incorrect calculations or any actions taken based on the results provided by our tools. The results are estimates based on standard formulas.
+          SmartKalc assumes no liability for any incorrect calculations or any actions taken based on the results provided by our tools. The results are estimates based on standard formulas.
         </p>
         
         <h2 className="text-xl font-medium mt-6 mb-3">3. User Responsibility</h2>

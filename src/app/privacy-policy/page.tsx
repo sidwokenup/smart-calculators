@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Privacy Policy | SmartCalc",
-  description: "Read the Privacy Policy for SmartCalc. We value your privacy and do not collect personal data from our calculators.",
+  title: "Privacy Policy | SmartKalc",
+  description: "Read the Privacy Policy for SmartKalc. We value your privacy and do not collect personal data from our calculators.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -10,7 +10,7 @@ export default function PrivacyPolicyPage() {
       <div className="prose prose-gray">
         <p className="text-gray-600 mb-4">Last updated: April 2026</p>
         <p className="text-gray-600 mb-4">
-          At SmartCalc, we value and respect your privacy. This Privacy Policy outlines the types of information we collect, how it's used, and how we protect your personal data when you use our website.
+          At SmartKalc, we value and respect your privacy. This Privacy Policy outlines the types of information we collect, how it's used, and how we protect your personal data when you use our website.
         </p>
         <h2 className="text-xl font-medium mt-6 mb-3">1. Information We Collect</h2>
         <p className="text-gray-600 mb-4">

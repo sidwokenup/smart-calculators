@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 py-10 flex flex-col items-center justify-center gap-6">
         {/* Logo */}
         <Link href="/" className="text-xl font-semibold tracking-tight text-gray-900 hover:text-gray-600 transition-colors">
-          SmartCalc
+          SmartKalc
         </Link>
 
         {/* Links */}
@@ -36,9 +36,10 @@ export default function Footer() {
         
         {/* Copyright */}
         <p className="text-sm text-gray-400">
-          &copy; 2026 SmartCalc. All rights reserved.
+          &copy; 2026 SmartKalc. All rights reserved.
         </p>
       </div>
     </footer>
   );
 }
+

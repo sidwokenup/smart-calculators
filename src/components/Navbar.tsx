@@ -46,7 +46,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4 md:px-6 lg:px-8 h-full flex items-center justify-between">
         {/* Logo */}
         <Link href="/" onClick={closeMenu} className="text-xl font-semibold tracking-tight hover:text-gray-600 transition-colors active:scale-95">
-          SmartCalc
+          SmartKalc
         </Link>
 
         {/* Desktop Navigation */}
@@ -149,3 +149,4 @@ export default function Navbar() {
     </nav>
   );
 }
+
