@@ -6,6 +6,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "SmartCalc – Free Online Calculators for Health & Finance",
   description: "Use SmartCalc for fast, accurate health and finance calculators including BMI, EMI, calorie, and more.",
+  icons: {
+    icon: "/assets/logo.png",
+  },
 };
 
 export default function RootLayout({
